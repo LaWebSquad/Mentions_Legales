@@ -28,7 +28,7 @@ Toute exploitation non autorisée du site ou de l’un quelconque des éléments
 
 **La Web Squad** ne pourra être tenu pour responsable des dommages directs et indirects causés au matériel de l’utilisateur, lors de l’accès au site [**https://lawebsquad.fr/**](https://lawebsquad.fr/).
 
-**La Web Squad** décline toute responsabilité quant à l’utilisation qui pourrait être faite des informations et contenus présents sur ****[https://lawebsquad.fr/**](https://lawebsquad.fr/)**.
+**La Web Squad** décline toute responsabilité quant à l’utilisation qui pourrait être faite des informations et contenus présents sur **[https://lawebsquad.fr/](https://lawebsquad.fr/)**.
 
 **La Web Squad** s’engage à sécuriser au mieux le site [**https://lawebsquad.fr/**](https://lawebsquad.fr/), cependant sa responsabilité ne pourra être mise en cause si des données indésirables sont importées et installées sur son site à son insu.
 
